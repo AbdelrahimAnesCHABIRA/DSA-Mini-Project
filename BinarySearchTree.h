@@ -1,6 +1,6 @@
 #ifndef BINARY_SEARCH_TREE_H
 #define BINARY_SEARCH_TREE_H
-
+// Made by love
 #include <algorithm>
 using namespace std;       
 
